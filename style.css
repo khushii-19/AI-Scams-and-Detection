@@ -1,0 +1,39 @@
+header {
+    background:#09032a;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav {
+    background: #362d51;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+nav a {
+    font-size: x-large;
+    text-decoration: none;
+    color: #fff;
+    margin: 0 50px;
+}
+a:hover{
+    color: rgb(5, 201, 250);
+    
+}
+.container{
+    /* display: flex; */
+    width:50%;
+    height: 400px;
+    margin:23px auto;
+    border: 2px solid black;
+    display: inline-block;
+    padding:3px;
+    margin:40px 352px;
+    background:;
+    
+}
